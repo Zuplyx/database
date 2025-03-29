@@ -1,4 +1,4 @@
-name: 2160p Remux (h265)
+name: 2160p_Remux_h265
 description: "2160p Remux utilizes **audio / video tags** to prioritise high quality\
   \ lossless copies of UHD Blu-rays.\n\n- Unlike the encode profiles, which target\
   \ releases based on a release group metric, 2160p Remux avoids this to stop *circular\
